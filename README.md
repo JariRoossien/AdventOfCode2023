@@ -1,5 +1,5 @@
-# AdventOfCode2022
-My submissions for the 2022 Edition of Advent of Code!
+# AdventOfCode2023
+My submissions for the 2023 Edition of Advent of Code!
 
 ## Current Output
 ```
