@@ -23,6 +23,7 @@ public class Day01 extends Day {
         }
         return 0;
     }
+
     public static int getLastDigit(String s, boolean includeText) {
         char c;
         for (int i = s.length() - 1; i >= 0; i--) {
